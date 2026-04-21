@@ -1,0 +1,12 @@
+{
+  "name": "maheshsmk01-z_cpg-accelerator_new",
+  "version": "1.0.0",
+  "description": "maheshsmk01-Z_CPG-Accelerator_new",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "keepClient": "false",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
